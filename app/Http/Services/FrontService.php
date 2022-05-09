@@ -20,7 +20,7 @@ class FrontService extends BaseServiceController
     {
 
         return Product::
-        where('title','like','%'.$search .'%')
+        where('title','like',$search .'%')
             ->select(['id', 'title'])
             ->get();
     }

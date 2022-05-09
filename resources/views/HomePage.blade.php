@@ -28,7 +28,7 @@ load_data('');
 function load_data(search = '')
 {
 $.ajax({
-url:"http://localhost:8000/api/getProduct/",
+url:"{{url('api/getProduct')}}",
 method:"POST",
 data:{search:search},
 dataType:"json",
@@ -40,7 +40,7 @@ if(data.length > 0)
 for(var count = 0; count < data.length; count++)
 {
 output += '<tr>';
-output += '<td><a href="http://localhost:8000/productDetails/'+data[count].id+'">'+data[count].title+'</a></td>';
+output += '<td><a href="{{url('productDetails')}}/'+data[count].id+'">'+data[count].title+'</a></td>';
 output += '</tr>';
 }
 }
