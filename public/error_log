@@ -1,0 +1,168 @@
+[11-Nov-2021 15:11:11 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.32. in /home/nettinghub/public_html/Backend/vendor/composer/platform_check.php on line 24
+[11-Nov-2021 15:18:52 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.32. in /home/nettinghub/public_html/Backend/vendor/composer/platform_check.php on line 24
+[20-Dec-2021 14:18:22 UTC] PHP Fatal error:  Uncaught ReflectionException: Class env does not exist in /home/nettinghub/public_html/Backend/vendor/laravel/framework/src/Illuminate/Container/Container.php:873
+Stack trace:
+#0 /home/nettinghub/public_html/Backend/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): ReflectionClass->__construct('env')
+#1 /home/nettinghub/public_html/Backend/vendor/laravel/framework/src/Illuminate/Container/Container.php(754): Illuminate\Container\Container->build('env')
+#2 /home/nettinghub/public_html/Backend/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->resolve('env', Array, true)
+#3 /home/nettinghub/public_html/Backend/vendor/laravel/framework/src/Illuminate/Container/Container.php(692): Illuminate\Foundation\Application->resolve('env', Array)
+#4 /home/nettinghub/public_html/Backend/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(826): Illuminate\Container\Container->make('env', Array)
+#5 /home/nettinghub/public_html/Backend/ven in /home/nettinghub/public_html/Backend/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 875
+[20-Dec-2021 14:18:29 UTC] PHP Fatal error:  Uncaught ReflectionException: Class env does not exist in /home/nettinghub/public_html/Backend/vendor/laravel/framework/src/Illuminate/Container/Container.php:873
+Stack trace:
+#0 /home/nettinghub/public_html/Backend/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): ReflectionClass->__construct('env')
+#1 /home/nettinghub/public_html/Backend/vendor/laravel/framework/src/Illuminate/Container/Container.php(754): Illuminate\Container\Container->build('env')
+#2 /home/nettinghub/public_html/Backend/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->resolve('env', Array, true)
+#3 /home/nettinghub/public_html/Backend/vendor/laravel/framework/src/Illuminate/Container/Container.php(692): Illuminate\Foundation\Application->resolve('env', Array)
+#4 /home/nettinghub/public_html/Backend/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(826): Illuminate\Container\Container->make('env', Array)
+#5 /home/nettinghub/public_html/Backend/ven in /home/nettinghub/public_html/Backend/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 875
+[20-Dec-2021 14:18:31 UTC] PHP Fatal error:  Uncaught ReflectionException: Class env does not exist in /home/nettinghub/public_html/Backend/vendor/laravel/framework/src/Illuminate/Container/Container.php:873
+Stack trace:
+#0 /home/nettinghub/public_html/Backend/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): ReflectionClass->__construct('env')
+#1 /home/nettinghub/public_html/Backend/vendor/laravel/framework/src/Illuminate/Container/Container.php(754): Illuminate\Container\Container->build('env')
+#2 /home/nettinghub/public_html/Backend/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->resolve('env', Array, true)
+#3 /home/nettinghub/public_html/Backend/vendor/laravel/framework/src/Illuminate/Container/Container.php(692): Illuminate\Foundation\Application->resolve('env', Array)
+#4 /home/nettinghub/public_html/Backend/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(826): Illuminate\Container\Container->make('env', Array)
+#5 /home/nettinghub/public_html/Backend/ven in /home/nettinghub/public_html/Backend/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 875
+[20-Dec-2021 14:18:33 UTC] PHP Fatal error:  Uncaught ReflectionException: Class env does not exist in /home/nettinghub/public_html/Backend/vendor/laravel/framework/src/Illuminate/Container/Container.php:873
+Stack trace:
+#0 /home/nettinghub/public_html/Backend/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): ReflectionClass->__construct('env')
+#1 /home/nettinghub/public_html/Backend/vendor/laravel/framework/src/Illuminate/Container/Container.php(754): Illuminate\Container\Container->build('env')
+#2 /home/nettinghub/public_html/Backend/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->resolve('env', Array, true)
+#3 /home/nettinghub/public_html/Backend/vendor/laravel/framework/src/Illuminate/Container/Container.php(692): Illuminate\Foundation\Application->resolve('env', Array)
+#4 /home/nettinghub/public_html/Backend/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(826): Illuminate\Container\Container->make('env', Array)
+#5 /home/nettinghub/public_html/Backend/ven in /home/nettinghub/public_html/Backend/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 875
+[09-Feb-2022 08:18:03 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Auth\AuthenticatesUsers' not found in /home/nettinghub/public_html/version_2/app/Http/Controllers/Website/Auth/LoginController.php on line 8
+[09-Feb-2022 08:21:38 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Auth\AuthenticatesUsers' not found in /home/nettinghub/public_html/version_2/app/Http/Controllers/Website/Auth/LoginController.php on line 8
+[10-Feb-2022 07:12:19 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 5760000 bytes) in /home/nettinghub/public_html/version_2/app/Http/Controllers/Website/HomeController.php on line 462
+[10-Feb-2022 08:16:50 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 5064000 bytes) in /home/nettinghub/public_html/version_2/app/Http/Controllers/Website/HomeController.php on line 462
+[14-Feb-2022 15:07:38 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 12288 bytes) in /home/nettinghub/public_html/version_2/app/Http/Controllers/Website/HomeController.php on line 459
+[14-Feb-2022 15:07:45 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 12288 bytes) in /home/nettinghub/public_html/version_2/app/Http/Controllers/Website/HomeController.php on line 459
+[14-Feb-2022 15:07:53 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 12288 bytes) in /home/nettinghub/public_html/version_2/app/Http/Controllers/Website/HomeController.php on line 459
+[14-Feb-2022 15:07:53 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 12288 bytes) in /home/nettinghub/public_html/version_2/app/Http/Controllers/Website/HomeController.php on line 459
+[16-Feb-2022 14:21:04 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 6000000 bytes) in /home/nettinghub/public_html/version_2/app/Http/Controllers/Website/HomeController.php on line 486
+[10-Mar-2022 12:42:40 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8192 bytes) in /home/nettinghub/public_html/version_2/app/Http/Controllers/Website/HomeController.php on line 483
+[10-Mar-2022 12:43:26 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8192 bytes) in /home/nettinghub/public_html/version_2/app/Http/Controllers/Website/HomeController.php on line 483
+[10-Mar-2022 12:43:36 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8192 bytes) in /home/nettinghub/public_html/version_2/app/Http/Controllers/Website/HomeController.php on line 483
+[23-Mar-2022 09:08:10 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 65536 bytes) in /home/nettinghub/public_html/version_2/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[23-Mar-2022 09:08:18 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 65536 bytes) in /home/nettinghub/public_html/version_2/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[23-Mar-2022 09:08:21 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/nettinghub/public_html/version_2/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[23-Mar-2022 09:09:38 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/nettinghub/public_html/version_2/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[23-Mar-2022 09:09:54 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 65536 bytes) in /home/nettinghub/public_html/version_2/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[23-Mar-2022 09:09:56 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/nettinghub/public_html/version_2/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[23-Mar-2022 09:10:04 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 65536 bytes) in /home/nettinghub/public_html/version_2/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[23-Mar-2022 09:10:57 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 65536 bytes) in /home/nettinghub/public_html/version_2/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[23-Mar-2022 09:20:45 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 65536 bytes) in /home/nettinghub/public_html/version_2/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[23-Mar-2022 09:21:02 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 65536 bytes) in /home/nettinghub/public_html/version_2/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[23-Mar-2022 09:21:04 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 65536 bytes) in /home/nettinghub/public_html/version_2/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[23-Mar-2022 09:28:20 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 65536 bytes) in /home/nettinghub/public_html/version_2/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[23-Mar-2022 09:28:22 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 65536 bytes) in /home/nettinghub/public_html/version_2/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[23-Mar-2022 09:52:10 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/nettinghub/public_html/version_2/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[23-Mar-2022 09:55:45 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 81920 bytes) in /home/nettinghub/public_html/version_2/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Collection/Cells.php on line 416
+[23-Mar-2022 10:04:46 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/nettinghub/public_html/version_2/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[23-Mar-2022 10:04:54 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 65536 bytes) in /home/nettinghub/public_html/version_2/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[23-Mar-2022 10:08:22 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/nettinghub/public_html/version_2/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[23-Mar-2022 10:08:24 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/nettinghub/public_html/version_2/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[23-Mar-2022 10:08:45 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/nettinghub/public_html/version_2/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[23-Mar-2022 10:08:47 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/nettinghub/public_html/version_2/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[23-Mar-2022 10:12:09 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/nettinghub/public_html/version_2/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[23-Mar-2022 10:12:20 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/nettinghub/public_html/version_2/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[30-Mar-2022 11:55:43 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 12288 bytes) in /home/nettinghub/public_html/version_2/app/Http/Controllers/Website/HomeController.php on line 502
+[30-Mar-2022 11:55:57 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 12288 bytes) in /home/nettinghub/public_html/version_2/app/Http/Controllers/Website/HomeController.php on line 502
+[30-Mar-2022 12:13:15 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 12288 bytes) in /home/nettinghub/public_html/version_2/app/Http/Controllers/Website/HomeController.php on line 502
+[30-Mar-2022 13:06:52 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 12288 bytes) in /home/nettinghub/public_html/version_2/app/Http/Controllers/Website/HomeController.php on line 522
+[31-Mar-2022 11:40:17 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/nettinghub/public_html/version_2/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Cell/Coordinate.php on line 34
+[31-Mar-2022 11:40:30 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/nettinghub/public_html/version_2/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Cell/Coordinate.php on line 34
+[31-Mar-2022 11:41:41 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 528384 bytes) in /home/nettinghub/public_html/version_2/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Collection/Cells.php on line 142
+[31-Mar-2022 11:41:51 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 327680 bytes) in /home/nettinghub/public_html/version_2/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Collection/Cells.php on line 157
+[05-Apr-2022 08:55:57 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/nettinghub/public_html/version_2/vendor/laravel/framework/src/Illuminate/Container/Container.php:877
+Stack trace:
+#0 /home/nettinghub/public_html/version_2/vendor/laravel/framework/src/Illuminate/Container/Container.php(877): ReflectionClass->__construct('view')
+#1 /home/nettinghub/public_html/version_2/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build('view')
+#2 /home/nettinghub/public_html/version_2/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(851): Illuminate\Container\Container->resolve('view', Array, true)
+#3 /home/nettinghub/public_html/version_2/vendor/laravel/framework/src/Illuminate/Container/Container.php(694): Illuminate\Foundation\Application->resolve('view', Array)
+#4 /home/nettinghub/public_html/version_2/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(836): Illuminate\Container\Container->make('view', Array)
+#5 /home/nettinghub/publi in /home/nettinghub/public_html/version_2/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 879
+[05-Apr-2022 08:56:12 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/nettinghub/public_html/version_2/vendor/laravel/framework/src/Illuminate/Container/Container.php:877
+Stack trace:
+#0 /home/nettinghub/public_html/version_2/vendor/laravel/framework/src/Illuminate/Container/Container.php(877): ReflectionClass->__construct('view')
+#1 /home/nettinghub/public_html/version_2/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build('view')
+#2 /home/nettinghub/public_html/version_2/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(851): Illuminate\Container\Container->resolve('view', Array, true)
+#3 /home/nettinghub/public_html/version_2/vendor/laravel/framework/src/Illuminate/Container/Container.php(694): Illuminate\Foundation\Application->resolve('view', Array)
+#4 /home/nettinghub/public_html/version_2/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(836): Illuminate\Container\Container->make('view', Array)
+#5 /home/nettinghub/publi in /home/nettinghub/public_html/version_2/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 879
+[05-Apr-2022 08:56:27 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/nettinghub/public_html/version_2/vendor/laravel/framework/src/Illuminate/Container/Container.php:877
+Stack trace:
+#0 /home/nettinghub/public_html/version_2/vendor/laravel/framework/src/Illuminate/Container/Container.php(877): ReflectionClass->__construct('view')
+#1 /home/nettinghub/public_html/version_2/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build('view')
+#2 /home/nettinghub/public_html/version_2/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(851): Illuminate\Container\Container->resolve('view', Array, true)
+#3 /home/nettinghub/public_html/version_2/vendor/laravel/framework/src/Illuminate/Container/Container.php(694): Illuminate\Foundation\Application->resolve('view', Array)
+#4 /home/nettinghub/public_html/version_2/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(836): Illuminate\Container\Container->make('view', Array)
+#5 /home/nettinghub/publi in /home/nettinghub/public_html/version_2/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 879
+[05-Apr-2022 08:56:28 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/nettinghub/public_html/version_2/vendor/laravel/framework/src/Illuminate/Container/Container.php:877
+Stack trace:
+#0 /home/nettinghub/public_html/version_2/vendor/laravel/framework/src/Illuminate/Container/Container.php(877): ReflectionClass->__construct('view')
+#1 /home/nettinghub/public_html/version_2/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build('view')
+#2 /home/nettinghub/public_html/version_2/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(851): Illuminate\Container\Container->resolve('view', Array, true)
+#3 /home/nettinghub/public_html/version_2/vendor/laravel/framework/src/Illuminate/Container/Container.php(694): Illuminate\Foundation\Application->resolve('view', Array)
+#4 /home/nettinghub/public_html/version_2/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(836): Illuminate\Container\Container->make('view', Array)
+#5 /home/nettinghub/publi in /home/nettinghub/public_html/version_2/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 879
+[05-Apr-2022 08:56:28 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/nettinghub/public_html/version_2/vendor/laravel/framework/src/Illuminate/Container/Container.php:877
+Stack trace:
+#0 /home/nettinghub/public_html/version_2/vendor/laravel/framework/src/Illuminate/Container/Container.php(877): ReflectionClass->__construct('view')
+#1 /home/nettinghub/public_html/version_2/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build('view')
+#2 /home/nettinghub/public_html/version_2/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(851): Illuminate\Container\Container->resolve('view', Array, true)
+#3 /home/nettinghub/public_html/version_2/vendor/laravel/framework/src/Illuminate/Container/Container.php(694): Illuminate\Foundation\Application->resolve('view', Array)
+#4 /home/nettinghub/public_html/version_2/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(836): Illuminate\Container\Container->make('view', Array)
+#5 /home/nettinghub/publi in /home/nettinghub/public_html/version_2/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 879
+[05-Apr-2022 08:56:31 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/nettinghub/public_html/version_2/vendor/laravel/framework/src/Illuminate/Container/Container.php:877
+Stack trace:
+#0 /home/nettinghub/public_html/version_2/vendor/laravel/framework/src/Illuminate/Container/Container.php(877): ReflectionClass->__construct('view')
+#1 /home/nettinghub/public_html/version_2/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build('view')
+#2 /home/nettinghub/public_html/version_2/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(851): Illuminate\Container\Container->resolve('view', Array, true)
+#3 /home/nettinghub/public_html/version_2/vendor/laravel/framework/src/Illuminate/Container/Container.php(694): Illuminate\Foundation\Application->resolve('view', Array)
+#4 /home/nettinghub/public_html/version_2/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(836): Illuminate\Container\Container->make('view', Array)
+#5 /home/nettinghub/publi in /home/nettinghub/public_html/version_2/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 879
+[05-Apr-2022 08:56:32 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/nettinghub/public_html/version_2/vendor/laravel/framework/src/Illuminate/Container/Container.php:877
+Stack trace:
+#0 /home/nettinghub/public_html/version_2/vendor/laravel/framework/src/Illuminate/Container/Container.php(877): ReflectionClass->__construct('view')
+#1 /home/nettinghub/public_html/version_2/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build('view')
+#2 /home/nettinghub/public_html/version_2/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(851): Illuminate\Container\Container->resolve('view', Array, true)
+#3 /home/nettinghub/public_html/version_2/vendor/laravel/framework/src/Illuminate/Container/Container.php(694): Illuminate\Foundation\Application->resolve('view', Array)
+#4 /home/nettinghub/public_html/version_2/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(836): Illuminate\Container\Container->make('view', Array)
+#5 /home/nettinghub/publi in /home/nettinghub/public_html/version_2/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 879
+[07-Apr-2022 08:23:06 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4233648 bytes) in /home/nettinghub/public_html/version_2/app/Http/Controllers/Website/HomeController.php on line 546
+[27-Apr-2022 12:16:00 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/nettinghub/public_html/version_3/vendor/laravel/framework/src/Illuminate/Events/Dispatcher.php on line 239
+[27-Apr-2022 12:17:20 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/nettinghub/public_html/version_3/vendor/laravel/framework/src/Illuminate/Events/Dispatcher.php on line 239
+[27-Apr-2022 12:17:25 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/nettinghub/public_html/version_3/vendor/laravel/framework/src/Illuminate/Events/Dispatcher.php on line 239
+[27-Apr-2022 12:19:23 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/nettinghub/public_html/version_3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[27-Apr-2022 12:19:37 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/nettinghub/public_html/version_3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[27-Apr-2022 12:21:18 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/nettinghub/public_html/version_3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[27-Apr-2022 12:22:27 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/nettinghub/public_html/version_3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[27-Apr-2022 12:22:45 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/nettinghub/public_html/version_3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[27-Apr-2022 12:23:55 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/nettinghub/public_html/version_3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[28-Apr-2022 11:46:47 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/nettinghub/public_html/version_3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[28-Apr-2022 11:48:02 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/nettinghub/public_html/version_3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[28-Apr-2022 11:48:14 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/nettinghub/public_html/version_3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[28-Apr-2022 11:48:44 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/nettinghub/public_html/version_3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[28-Apr-2022 12:46:37 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/nettinghub/public_html/version_3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[28-Apr-2022 12:46:58 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/nettinghub/public_html/version_3/vendor/laravel/framework/src/Illuminate/Events/Dispatcher.php on line 239
+[28-Apr-2022 12:48:02 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/nettinghub/public_html/version_3/vendor/laravel/framework/src/Illuminate/Events/Dispatcher.php on line 239
+[28-Apr-2022 12:49:38 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/nettinghub/public_html/version_3/vendor/laravel/framework/src/Illuminate/Events/Dispatcher.php on line 239
+[28-Apr-2022 12:51:34 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/nettinghub/public_html/version_3/vendor/laravel/framework/src/Illuminate/Events/Dispatcher.php on line 239
+[28-Apr-2022 12:51:36 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/nettinghub/public_html/version_3/vendor/laravel/framework/src/Illuminate/Events/Dispatcher.php on line 239
+[28-Apr-2022 12:59:00 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097152 bytes) in /home/nettinghub/public_html/version_3/vendor/laravel/framework/src/Illuminate/Collections/Traits/EnumeratesValues.php on line 905
+[28-Apr-2022 12:59:31 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097152 bytes) in /home/nettinghub/public_html/version_3/vendor/laravel/framework/src/Illuminate/Collections/Traits/EnumeratesValues.php on line 905
+[28-Apr-2022 12:59:35 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097152 bytes) in /home/nettinghub/public_html/version_3/vendor/laravel/framework/src/Illuminate/Collections/Traits/EnumeratesValues.php on line 905
+[28-Apr-2022 12:59:57 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097152 bytes) in /home/nettinghub/public_html/version_3/vendor/laravel/framework/src/Illuminate/Collections/Traits/EnumeratesValues.php on line 905
+[28-Apr-2022 13:00:19 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097152 bytes) in /home/nettinghub/public_html/version_3/vendor/laravel/framework/src/Illuminate/Collections/Traits/EnumeratesValues.php on line 905
+[28-Apr-2022 13:03:22 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097152 bytes) in /home/nettinghub/public_html/version_3/vendor/laravel/framework/src/Illuminate/Collections/Traits/EnumeratesValues.php on line 905
+[28-Apr-2022 13:05:52 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/nettinghub/public_html/version_3/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php on line 274
+[28-Apr-2022 13:07:08 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/nettinghub/public_html/version_3/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php on line 274
+[28-Apr-2022 13:08:02 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/nettinghub/public_html/version_3/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php on line 274
+[28-Apr-2022 13:10:24 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/nettinghub/public_html/version_3/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php on line 274
+[28-Apr-2022 13:13:20 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 135168 bytes) in /home/nettinghub/public_html/version_3/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 697
+[28-Apr-2022 13:13:23 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 135168 bytes) in /home/nettinghub/public_html/version_3/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 697
+[28-Apr-2022 13:14:05 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 163840 bytes) in /home/nettinghub/public_html/version_3/vendor/laravel/framework/src/Illuminate/Collections/Arr.php on line 61
+[28-Apr-2022 13:14:14 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 163840 bytes) in /home/nettinghub/public_html/version_3/vendor/laravel/framework/src/Illuminate/Collections/Arr.php on line 61
+[28-Apr-2022 13:15:40 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 204800 bytes) in /home/nettinghub/public_html/version_3/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/XMLWriter.php on line 70
